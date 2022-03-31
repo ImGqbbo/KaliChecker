@@ -73,7 +73,7 @@ namespace KaliChecker
                 });
             }
 
-            while (GetCurrent(validTokens, invalidTokens, lockedTokens) - 1 != totalTokens.Count)
+            while (GetCurrent(validTokens, invalidTokens, lockedTokens) - 1 != totalTokens.Count || GetCurrent(validTokens, invalidTokens, lockedTokens) > totalTokens.Count)
             {
                 Thread.Sleep(100);
             }
