@@ -1,0 +1,8 @@
+C:\Users\catal\source\repos\KaliChecker\bin\Debug\KaliChecker.exe.config
+C:\Users\catal\source\repos\KaliChecker\bin\Debug\KaliChecker.exe
+C:\Users\catal\source\repos\KaliChecker\bin\Debug\KaliChecker.pdb
+C:\Users\catal\source\repos\KaliChecker\obj\Debug\KaliChecker.csproj.AssemblyReference.cache
+C:\Users\catal\source\repos\KaliChecker\obj\Debug\KaliChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\catal\source\repos\KaliChecker\obj\Debug\KaliChecker.csproj.CoreCompileInputs.cache
+C:\Users\catal\source\repos\KaliChecker\obj\Debug\KaliChecker.exe
+C:\Users\catal\source\repos\KaliChecker\obj\Debug\KaliChecker.pdb
